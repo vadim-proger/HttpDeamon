@@ -23,7 +23,7 @@ response хэш загруженного файла
 ## Установка зависимостей
 pip3 install -r requirements.txt
 
-### Запуск Демона
+## Запуск Демона
 python app.py abs_path_to_store --host=127.0.0.1 --port=5000
 
 #### Параметры командной строки
